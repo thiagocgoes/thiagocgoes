@@ -1,7 +1,7 @@
 - Olá sou Thiago Góes...
-- ... formado em economia...
+- Formado em economia...
 - e estou estudando python e B.I .
-
+ 
 
 <!---
 thiagocgoes/thiagocgoes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
