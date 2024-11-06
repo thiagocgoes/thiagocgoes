@@ -1,7 +1,8 @@
 - Olá sou Thiago Góes...
 - Formado em economia...
-- Cursando Pós-Graduação em Desenvolvimento de Sistemas com Python...
-- Cursando Pós Graduação em Desenvolvimento Web Full Stack.
+- Cursando Graduação em Analise e Desenvolvimento de Sistemas e cursando Pós Graduação em Ciencia de Dados.
+- Gosto de realizar analises economicas, analises de dados e criar relatórios.
+- Possuo conhecimento na linguagem Python, Power B.I e SQL.
  
 
 <!---
